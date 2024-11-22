@@ -36,3 +36,20 @@ Let's do a list of a few bullet points that we think are somewhat relevant regar
 - If excitement fades, pause and reassess
 - Return to step 1 rather than forcing continuation
 - Exception: Known reliable "excitement triggers" (like your friend visit example) where the pattern is proven
+
+## Art 2
+
+Act now act small feel true
+
+
+
+"The smallest action beats the grandest plan"  
+"Start stupid small, get surprisingly far"  
+"One line of code moves mountains"  
+"Done beats perfect, small beats stuck"  
+"Five minutes of doing beats five hours of worry"  
+"Open the IDE, write one line"  
+"Start before you're ready, stay before you're done"  
+"The dumbest first step beats the smartest excuse"  
+"Move first, momentum follows"  
+"Just write the damn print statement"
