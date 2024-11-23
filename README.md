@@ -39,7 +39,7 @@ Let's do a list of a few bullet points that we think are somewhat relevant regar
 
 ## Art 2
 
-Act now act small feel true
+Act now act small act true
 
 
 
